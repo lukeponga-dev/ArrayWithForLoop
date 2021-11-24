@@ -18,11 +18,10 @@ namespace ArrayWithForLoop
         {
             InitializeComponent();
 
-
-
+         
+  
 
         }
-
         private void btnArray_Click(object sender, EventArgs e)
         {
             //Clear the listbox
